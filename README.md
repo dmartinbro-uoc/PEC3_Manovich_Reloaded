@@ -7,11 +7,11 @@
 
 ## Introducción 
 
-Lev Manovich, en El software toma el mando, nos plantea que el software no debe entenderse únicamente como una herramienta técnica, sino como una capa cultural que transforma la producción, distribución y consumo de los medios digitales. El software ya no es solo una herramienta, sino el elemento que organiza la cultura contemporánea, las aplicaciones modifican la manera en que escribimos, diseñamos, vemos, jugamos, investigamos o construimos conocimiento.
+Lev Manovich, en *El software toma el mando*, nos plantea que el **software** no debe entenderse únicamente como una herramienta técnica, sino como una **capa cultural** que transforma la producción, distribución y consumo de los medios digitales. El software ya no es solo una herramienta: es el elemento que organiza la cultura contemporánea. Las aplicaciones modifican la manera en que escribimos, diseñamos, vemos, jugamos, investigamos o construimos conocimiento.
 
 Manovich dice que el software “toma el mando” porque se convierte en la interfaz entre nosotros y la realidad. Ya no usamos solo máquinas físicas; usamos capas de software que deciden cómo vemos imágenes, cómo se organizan los datos, cómo nos comunicamos y hasta cómo pensamos ciertas cosas. Para él, el software es al siglo XXI lo que la electricidad o el motor fueron al siglo XX.
 
-**Las herramientas digitales no solo sirven para crear cultura, también moldean cómo acaba siendo esa cultura.** 
+> **Las herramientas digitales no solo sirven para crear cultura: también moldean cómo acaba siendo esa cultura.**
 
 ## ¿Qué entendemos por hibridación según Manovich?
 
@@ -19,7 +19,12 @@ La hibridación va más allá de la simple multimedia. En un producto multimedia
 
 Para Manovich, la hibridación de medios se produce cuando técnicas, lenguajes e interfaces procedentes de medios distintos se fusionan dentro del software. No se trata simplemente de colocar texto, imagen, vídeo o sonido en una misma pantalla, sino de crear una nueva forma cultural donde esos medios interactúan entre sí.
 
-**Principios** como la **modularidad, la automatización, la variabilidad y la transcodificación son fundamentales en la hibridación**. Los objetos digitales pueden dividirse en partes reutilizables, procesarse automáticamente, presentarse de diferentes maneras y traducir prácticas culturales a estructuras de datos.
+Los principios más relevantes para este análisis son:
+
+- **Modularidad:** los objetos digitales se dividen en partes reutilizables.
+- **Automatización:** el software ejecuta procesos sin intervención manual constante.
+- **Variabilidad:** un mismo contenido puede adoptar distintas formas.
+- **Transcodificación:** las prácticas culturales se traducen a estructuras de datos.
 
 
 ## Caso 1: Obsidian -  La escritura como red navegable 
@@ -77,13 +82,24 @@ Desde la perspectiva de Manovich, Unreal Engine transforma la imagen en espacio.
 En el cine tradicional, la cámara registra una escena y después se edita el material. En Unreal Engine, el escenario, la iluminación, los personajes y la cámara pueden modificarse en tiempo real. Esto acerca la producción audiovisual a la lógica interactiva del videojuego.
 
 
-## Reflexión
+### Reflexión
 
 Desde mi punto de vista, Unreal Engine muestra una de las transformaciones más claras de la cultura visual contemporánea. La frontera entre jugar, grabar, simular y diseñar se vuelve cada vez más difusa. Un mismo espacio digital puede servir para una película, un videojuego o una visita arquitectónica.
 
 Esta hibridación también cambia el papel del espectador. En muchos entornos creados con motores como Unreal, el usuario ya no se limita a mirar una imagen, sino que puede desplazarse por ella, modificarla o interactuar con sus elementos. La imagen se convierte así en experiencia.
 
 ---
+
+## Comparación entre ambos casos
+
+| Aspecto | Obsidian | Unreal Engine |
+|---|---|---|
+| Ámbito cultural | Escritura, memoria y conocimiento | Imagen, espacio y simulación |
+| Medio de partida | Cuaderno, wiki y archivo | Videojuego y producción 3D |
+| Tipo de hibridación | Texto, hipertexto, base de datos y grafo | Cine, videojuego, arquitectura y simulación |
+| Resultado | Red navegable de conocimiento | Mundo interactivo en tiempo real |
+| Cambio cultural | Escribir se convierte en conectar ideas | Crear imágenes se convierte en construir espacios |
+
 
 ## Conclusiones
 
