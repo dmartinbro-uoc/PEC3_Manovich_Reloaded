@@ -19,7 +19,7 @@ La hibridación va más allá de la simple multimedia. En un producto multimedia
 
 Para Manovich, la hibridación de medios se produce cuando técnicas, lenguajes e interfaces procedentes de medios distintos se fusionan dentro del software. No se trata simplemente de colocar texto, imagen, vídeo o sonido en una misma pantalla, sino de crear una nueva forma cultural donde esos medios interactúan entre sí.
 
-Los principios más relevantes para este análisis son:
+Los principios más relevantes son:
 
 - **Modularidad:** los objetos digitales se dividen en partes reutilizables.
 - **Automatización:** el software ejecuta procesos sin intervención manual constante.
@@ -36,15 +36,20 @@ Obsidian, a primera vista, parece una herramienta de notas, pero funciona tambi�
 
 
 ### Obsidian como ejemplo de hibridación
-Obsidian hibrida varias prácticas digitales: el cuaderno personal, el hipertexto, la base de datos y el mapa mental. Todos estos elementos se integran en una misma experiencia.
-La modularidad aparece porque cada nota es independiente, pero puede relacionarse con otras dentro del sistema.
-La variabilidad se observa en que un mismo contenido puede verse como texto, nodo en un grafo, tarjeta en Canvas o resultado de búsqueda.
-La automatización se refleja en plantillas, etiquetas, plugins y consultas que permiten reorganizar y recuperar información automáticamente.
-Desde la perspectiva de Lev Manovich, Obsidian muestra cómo el software transforma la escritura en una estructura computacional. El texto deja de ser un documento aislado y pasa a formar parte de una red dinámica de relaciones.
 
-La transcodificación cultural aparece cuando actividades tradicionales, como tomar apuntes o construir memoria personal, se traducen en archivos, enlaces, etiquetas y grafos digitales. Así, estudiar o investigar deja de consistir solo en acumular documentos y pasa a implicar construir conexiones entre ideas. Obsidian convierte la memoria personal en una interfaz dinámica donde el usuario puede descubrir conexiones que quizá no había previsto inicialmente.
+**Obsidian** hibrida varias prácticas digitales: el **cuaderno personal**, el **hipertexto**, la **base de datos** y el **mapa mental**. Todos estos elementos se integran en una misma experiencia.
 
-Esta transformación tiene consecuencias culturales importantes. Estudiar, investigar o escribir ya no consiste solo en acumular documentos, sino en construir relaciones entre ideas. 
+La **modularidad** aparece porque cada nota es independiente, pero puede relacionarse con otras dentro del sistema.
+
+La **variabilidad** se observa en que un mismo contenido puede verse como **texto**, **nodo en un grafo**, **tarjeta en Canvas** o **resultado de búsqueda**.
+
+La **automatización** se refleja en **plantillas**, **etiquetas**, **plugins** y **consultas** que permiten reorganizar y recuperar información automáticamente.
+
+Desde la perspectiva de **Lev Manovich**, Obsidian muestra cómo el **software transforma la escritura en una estructura computacional**. El texto deja de ser un **documento aislado** y pasa a formar parte de una **red dinámica de relaciones**.
+
+La **transcodificación cultural** aparece cuando actividades tradicionales, como **tomar apuntes** o **construir memoria personal**, se traducen en **archivos**, **enlaces**, **etiquetas** y **grafos digitales**. Así, estudiar o investigar deja de consistir solo en acumular documentos y pasa a implicar **construir conexiones entre ideas**. Obsidian convierte la **memoria personal** en una **interfaz dinámica** donde el usuario puede descubrir conexiones que quizá no había previsto inicialmente.
+
+Esta transformación tiene **consecuencias culturales importantes**. Estudiar, investigar o escribir ya no consiste solo en **acumular documentos**, sino en **construir relaciones entre ideas**.
 
 
 
@@ -56,7 +61,7 @@ Desde mi punto de vista, Obsidian resulta especialmente interesante porque modif
 
 También me parece relevante que Obsidian mantenga los archivos en Markdown, un formato abierto y relativamente sencillo. Esto refuerza la idea de cultura digital abierta, reutilizable y compatible con otros entornos. La herramienta no solo permite escribir, sino construir un sistema personal de conocimiento que puede crecer, modificarse y reorganizarse con el tiempo.
 
-
+---
 
 ## Caso 2: Unreal Engine -  Del videojuego al escenario híbrido de producción visual
 
@@ -109,7 +114,7 @@ En ambos casos, el software no actúa como una herramienta neutra. Organiza la e
 
 Estos dos casos muestran que la hibridación actual ya no consiste solo en combinar texto, imagen, sonido o vídeo. Consiste en crear entornos donde los medios se vuelven datos, módulos, interfaces y procesos modificables. En ese sentido, el software no solo toma el mando de los medios, sino también de la memoria, la imaginación y la construcción de mundos digitales.
 
-—
+---
 
 ## Bibliografía
 
@@ -119,7 +124,7 @@ Estos dos casos muestran que la hibridación actual ya no consiste solo en combi
 - Obsidian Help. Documentación oficial: https://help.obsidian.md/
 - Epic Games. Unreal Engine. Sitio web oficial: https://www.unrealengine.com/
 
----
+
 **Uso de Inteligencia Artificial**
 Se ha hecho un uso ético y limitado de la Inteligencia Artificial generativa. Se ha utilizado la herramienta ChatGPT como asistente de apoyo documental para estructurar la argumentación teórica.
 Referencia de la IA: OpenAI. (2026). ChatGPT (versión 5). https://chat.openai.com/chat
