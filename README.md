@@ -126,7 +126,7 @@ Estos dos casos muestran que la hibridación actual ya no consiste solo en combi
 
 
 **Uso de Inteligencia Artificial**
-Se ha hecho un uso ético y limitado de la Inteligencia Artificial generativa. Se ha utilizado la herramienta ChatGPT como asistente de apoyo documental para estructurar la argumentación teórica.
+Se ha hecho un uso ético y limitado de la Inteligencia Artificial generativa. Se ha utilizado la herramienta ChatGPT como asistente de apoyo documental para estructurar la argumentación teórica y sugerir mejoras en expresión y resaltado de palabras.
 Referencia de la IA: OpenAI. (2026). ChatGPT (versión 5). https://chat.openai.com/chat
 
 
