@@ -22,7 +22,7 @@ Para Manovich, la hibridación de medios se produce cuando técnicas, lenguajes 
 
 
 ## Caso 1: Obsidian -  La escritura como red navegable 
-![Obsidian](https://pixabay.com/es/images/download/tariqmk-obsidian-8351494_1920.png) 
+![Obsidian](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png) 
 
 ###  Presentación 
 
