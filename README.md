@@ -1,8 +1,9 @@
 # PEC3: Manovich Reloaded — Obsidian y Unreal Engine como entornos híbridos
 
-Autor: David Martin Brogeras
-Asignatura: Cultura Digital 
-Fecha: Mayo 2026
+**Autor:** David Martin Brogeras  
+**Asignatura:** Cultura Digital  
+**Fecha:** Mayo 2026  
+**Licencia:** Creative Commons BY-SA 4.0
 
 ## Introducción 
 
