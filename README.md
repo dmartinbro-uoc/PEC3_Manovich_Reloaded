@@ -10,7 +10,7 @@ Lev Manovich, en El software toma el mando, nos plantea que el software no debe 
 
 Manovich dice que el software “toma el mando” porque se convierte en la interfaz entre nosotros y la realidad. Ya no usamos solo máquinas físicas; usamos capas de software que deciden cómo vemos imágenes, cómo se organizan los datos, cómo nos comunicamos y hasta cómo pensamos ciertas cosas. Para él, el software es al siglo XXI lo que la electricidad o el motor fueron al siglo XX.
 
-** Las herramientas digitales no solo sirven para crear cultura, también moldean cómo acaba siendo esa cultura.** 
+**Las herramientas digitales no solo sirven para crear cultura, también moldean cómo acaba siendo esa cultura.** 
 
 ## ¿Qué entendemos por hibridación según Manovich?
 
@@ -18,10 +18,11 @@ La hibridación va más allá de la simple multimedia. En un producto multimedia
 
 Para Manovich, la hibridación de medios se produce cuando técnicas, lenguajes e interfaces procedentes de medios distintos se fusionan dentro del software. No se trata simplemente de colocar texto, imagen, vídeo o sonido en una misma pantalla, sino de crear una nueva forma cultural donde esos medios interactúan entre sí.
 
-** Principios** como la ** modularidad, la automatización, la variabilidad y la transcodificación son fundamentales en la hibridación **. Los objetos digitales pueden dividirse en partes reutilizables, procesarse automáticamente, presentarse de diferentes maneras y traducir prácticas culturales a estructuras de datos.
+**Principios** como la **modularidad, la automatización, la variabilidad y la transcodificación son fundamentales en la hibridación**. Los objetos digitales pueden dividirse en partes reutilizables, procesarse automáticamente, presentarse de diferentes maneras y traducir prácticas culturales a estructuras de datos.
 
 
 ## Caso 1: Obsidian -  La escritura como red navegable 
+![Obsidian](https://pixabay.com/es/images/download/tariqmk-obsidian-8351494_1920.png) 
 
 ###  Presentación 
 
@@ -34,7 +35,9 @@ La modularidad aparece porque cada nota es independiente, pero puede relacionars
 La variabilidad se observa en que un mismo contenido puede verse como texto, nodo en un grafo, tarjeta en Canvas o resultado de búsqueda.
 La automatización se refleja en plantillas, etiquetas, plugins y consultas que permiten reorganizar y recuperar información automáticamente.
 Desde la perspectiva de Lev Manovich, Obsidian muestra cómo el software transforma la escritura en una estructura computacional. El texto deja de ser un documento aislado y pasa a formar parte de una red dinámica de relaciones.
+
 La transcodificación cultural aparece cuando actividades tradicionales, como tomar apuntes o construir memoria personal, se traducen en archivos, enlaces, etiquetas y grafos digitales. Así, estudiar o investigar deja de consistir solo en acumular documentos y pasa a implicar construir conexiones entre ideas. Obsidian convierte la memoria personal en una interfaz dinámica donde el usuario puede descubrir conexiones que quizá no había previsto inicialmente.
+
 Esta transformación tiene consecuencias culturales importantes. Estudiar, investigar o escribir ya no consiste solo en acumular documentos, sino en construir relaciones entre ideas. 
 
 
@@ -51,7 +54,7 @@ También me parece relevante que Obsidian mantenga los archivos en Markdown, un 
 
 ## Caso 2: Unreal Engine -  Del videojuego al escenario híbrido de producción visual
 
-###   Presentación
+### Presentación
 
 Unreal Engine nació como motor de videojuegos, pero actualmente se ha convertido en una plataforma de creación visual en tiempo real. Se utiliza en videojuegos, cine, televisión, arquitectura, diseño, simulación, realidad virtual, animación y experiencias inmersivas.
 
@@ -59,8 +62,6 @@ Su interés como caso de hibridación está en que ya no puede entenderse como u
 
 
 ### Unreal Engine como ejemplo de hibridación
-
-
 
 Unreal Engine hibrida medios y prácticas que antes estaban más separados: el videojuego, el cine, el teatro, la arquitectura, la simulación científica, la realidad virtual y la producción audiovisual. Todos estos lenguajes convergen en un entorno tridimensional navegable.
 
@@ -99,5 +100,10 @@ Estos dos casos muestran que la hibridación actual ya no consiste solo en combi
 - Obsidian. Sitio web oficial: https://obsidian.md/
 - Obsidian Help. Documentación oficial: https://help.obsidian.md/
 - Epic Games. Unreal Engine. Sitio web oficial: https://www.unrealengine.com/
+
+---
+**Uso de Inteligencia Artificial**. Se ha hecho un uso ético y limitado de la Inteligencia Artificial generativa. Se ha utilizado la herramienta ChatGPT como asistente de apoyo documental para estructurar la argumentación teórica.
+
+Referencia de la IA: OpenAI. (2026). ChatGPT (versión 5). https://chat.openai.com/chat
 
 
