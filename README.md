@@ -58,7 +58,7 @@ También me parece relevante que Obsidian mantenga los archivos en Markdown, un 
 
 Unreal Engine nació como motor de videojuegos, pero actualmente se ha convertido en una plataforma de creación visual en tiempo real. Se utiliza en videojuegos, cine, televisión, arquitectura, diseño, simulación, realidad virtual, animación y experiencias inmersivas.
 
-Su interés como caso de hibridación está en que ya no puede entenderse como una herramienta vinculada a un único medio. Unreal Engine integra técnicas procedentes del videojuego, la producción cinematográfica, la escenografía, la animación 3D, la simulación física y la programación visual.
+Su interés como caso de hibridación reside en que ya no puede entenderse como una herramienta vinculada a un único medio. Unreal Engine integra técnicas procedentes del videojuego, la producción cinematográfica, la escenografía, la animación 3D, la simulación física y la programación visual.
 
 
 ### Unreal Engine como ejemplo de hibridación
@@ -71,7 +71,6 @@ La automatización aparece en procesos como el renderizado en tiempo real, la il
 
 La variabilidad es uno de los rasgos más claros de Unreal Engine. Un mismo entorno tridimensional puede convertirse en videojuego, escena cinematográfica, simulación arquitectónica, experiencia educativa, recorrido virtual o pieza de realidad aumentada. La obra no queda fijada en una única forma final.
 
-
 Desde la perspectiva de Manovich, Unreal Engine transforma la imagen en espacio. La imagen ya no es solo una superficie para ser contemplada, sino un entorno que puede recorrerse, modificarse y programarse.
 
 En el cine tradicional, la cámara registra una escena y después se edita el material. En Unreal Engine, el escenario, la iluminación, los personajes y la cámara pueden modificarse en tiempo real. Esto acerca la producción audiovisual a la lógica interactiva del videojuego.
@@ -83,9 +82,11 @@ Desde mi punto de vista, Unreal Engine muestra una de las transformaciones más 
 
 Esta hibridación también cambia el papel del espectador. En muchos entornos creados con motores como Unreal, el usuario ya no se limita a mirar una imagen, sino que puede desplazarse por ella, modificarla o interactuar con sus elementos. La imagen se convierte así en experiencia.
 
+---
+
 ## Conclusiones
 
-Si Manovich escribiera hoy una nueva versión de El software toma el mando, Obsidian y Unreal Engine podrían formar parte de sus ejemplos porque muestran dos direcciones centrales de la cultura digital contemporánea: la organización algorítmica del conocimiento y la producción visual en tiempo real.
+Si Manovich escribiera hoy una nueva versión de El software toma el mando, **Obsidian y Unreal Engine** podrían formar parte de sus ejemplos porque muestran dos direcciones centrales de la cultura digital contemporánea: la organización algorítmica del conocimiento y la producción visual en tiempo real.
 
 En ambos casos, el software no actúa como una herramienta neutra. Organiza la experiencia, define las posibilidades de interacción y transforma los medios anteriores en nuevas formas culturales. Obsidian convierte la escritura en una red visual y navegable; Unreal Engine convierte la imagen en un espacio interactivo y programable.
 
@@ -102,8 +103,8 @@ Estos dos casos muestran que la hibridación actual ya no consiste solo en combi
 - Epic Games. Unreal Engine. Sitio web oficial: https://www.unrealengine.com/
 
 ---
-**Uso de Inteligencia Artificial**. Se ha hecho un uso ético y limitado de la Inteligencia Artificial generativa. Se ha utilizado la herramienta ChatGPT como asistente de apoyo documental para estructurar la argumentación teórica.
-
+**Uso de Inteligencia Artificial**
+Se ha hecho un uso ético y limitado de la Inteligencia Artificial generativa. Se ha utilizado la herramienta ChatGPT como asistente de apoyo documental para estructurar la argumentación teórica.
 Referencia de la IA: OpenAI. (2026). ChatGPT (versión 5). https://chat.openai.com/chat
 
 
